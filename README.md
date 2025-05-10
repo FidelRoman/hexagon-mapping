@@ -39,14 +39,6 @@ This project focuses on generating and analyzing hexagons based on geospatial co
 - **Folium:** Interactive map visualization.
 - **Matplotlib:** Unique color assignment to each district.
 
----
-
-## 📂 Project Structure
-├── project-repo/
-│   ├── mi_notebook.ipynb  # Main notebook with the implementation
-│   ├── README.md          # Project documentation
-│   └── data/
-│       └── peru_districts_shape.csv  # Dataset used
 
 🌐 Map Visualization
 	•	The notebook generates an interactive map using Folium.
